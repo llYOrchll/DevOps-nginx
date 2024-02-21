@@ -1,0 +1,40 @@
+.col-md-12{
+    border: 0px;
+    padding: 20px;
+}
+
+h3{
+    border-radius: 8px;
+    background-color: #C79316;
+    color: black;
+}
+
+.educ-button{
+    height: 30%;
+}
+
+.img-lis{
+    height: 40%;
+    padding-bottom: 10px;
+}
+.cisco-img{
+    height: 50%;
+}
+
+.img-lis-xp{
+    width: 450px;
+    padding-bottom: 10px;
+}
+
+.aux-bod-img{
+    height: 30%;
+}
+
+.description, .escolaridad{
+    color: white;
+    background-color: #002E5F;
+    border-radius: 8px;
+}
+
+
+
